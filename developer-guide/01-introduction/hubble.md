@@ -27,4 +27,4 @@ VNT Chain的公链——Hubble Network是下一代商业级智能价值传递的
 - P2P网络具有灵活简单特性，可从任意节点发起查找，且查找算法对数收敛，能快速定位内容。
 - P2P子协议框架具有稳定拓展特性，可以在其上任意扩展子协议处理，而底层框架无需做任何改动。
 
-关于Hubble和VNT Chain的更多详细介绍可以参见[VNT Chain白皮书](https://github.com/vntchain/vnt-documentation/blob/master/VNT-white-paper-CH.pdf)。
+关于Hubble和VNT Chain的更多详细介绍可以参见[VNT Chain白皮书]([https://github.com/vntchain/vnt-documentation/blob/master/VNT%20Chain%20%E7%99%BD%E7%9A%AE%E4%B9%A6%20V1.1.pdf](https://github.com/vntchain/vnt-documentation/blob/master/VNT Chain 白皮书 V1.1.pdf))。

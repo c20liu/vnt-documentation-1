@@ -361,7 +361,7 @@ tx=voteContract.$depositReward.sendTransaction({from:core.coinbase, value:amount
 
 ### 查询投票信息
 
-当前提供了3个JSON RPC API可以查询投票合约信息，具体信息见[JSON RPC API文档](../../api/vnt-json-rpc-api.md)。
+当前提供了3个JSON RPC API可以查询投票合约信息，具体信息见[JSON RPC API文档](https://github.com/vntchain/vnt-documentation/blob/master/api/vnt-json-rpc-api.md)。
 
 - `core_getVoter`：获取某个投票人的所有信息。
 - `core_getAllCandidates`：获取所有见证人候选人的信息。
