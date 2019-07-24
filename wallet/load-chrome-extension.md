@@ -1,4 +1,17 @@
-1. 通过载入VNT Wallet插件crx文件方式安装插件
+#### 1.通过chrome网上应用商店安装
+
+* 打开chrome网上应用商店
+
+通过链接https://chrome.google.com/webstore/category/extensions打开应用商店
+
+* 在搜索框内输入“vnt wallet”进行搜索
+* 添加至Chrome
+
+点击搜索结果中的“VNT Wallet”右测的“添加至Chrome”按钮，即可安装成功
+
+
+
+#### 2.通过载入VNT Wallet插件压缩包的方式安装插件
 
 - 下载插件钱包：[下载链接](http://vntchain.io/download)
 
