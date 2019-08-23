@@ -231,7 +231,7 @@ tx=voteContract.$stake.sendTransaction({from:core.coinbase, value:5e18})
 - website：节点网站网址
 - nodeurl：函数参数，见证人函数的参数
 - binder: 与该候选节点建立联系的绑定人
-- beneficiary：与该候选节点建立联系的绑定人的受益人账号，该账号接收超级节点的所有受益人地址
+- beneficiary：与该候选节点建立联系的绑定人的受益人账号，该账号接收超级节点的所有受益
 
 ```js
 name="greatvnt"
@@ -241,6 +241,7 @@ binder="0x02f8d9c9bb81b3a81bf13d4ec8818be5918d1250"
 beneficiary="0x123456c9bb81b3a81bf13d4ec8818be591812345"
 tx=voteContract.registerWitness.sendTransaction(nodeurl,website,name, binder,beneficiary,{from: core.coinbase})
 ```
+> 注意：需要将nodeurl中的127.0.0.1改为实际的ip地址
 
 #### 取消注册见证人节点
 
