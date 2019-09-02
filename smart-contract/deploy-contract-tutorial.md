@@ -35,7 +35,7 @@ npm install --save https://github.com/vntchain/vnt-kit.js.git
 ### 安装其它依赖
 ```
 # 这些依赖为以太坊有js工具库，vntchain可以兼容这些工具库
-npm install --save ethereumjs-tx
+npm install --save ethereumjs-tx@1.3.7
 npm install --save ethereumjs-account
 ```
 
