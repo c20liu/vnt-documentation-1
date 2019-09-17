@@ -78,9 +78,9 @@
 	- country：国家
 	- latitude，longitude: 经纬度
 
-注册超级节点有2种方式：
+注册超级节点的方式：
 
-1. 依照《投票合约使用教程》中的[注册见证人节点](https://github.com/vntchain/vnt-documentation/blob/master/introduction/take-part-in-witness-election/take-part-in-witness-election.md#%E6%B3%A8%E5%86%8C%E8%A7%81%E8%AF%81%E4%BA%BA%E8%8A%82%E7%82%B9)操作。
+- 依照《投票合约使用教程》中的[注册见证人节点](https://github.com/vntchain/vnt-documentation/blob/master/introduction/take-part-in-witness-election/take-part-in-witness-election.md#%E6%B3%A8%E5%86%8C%E8%A7%81%E8%AF%81%E4%BA%BA%E8%8A%82%E7%82%B9)操作。
 
 推荐使用方式1，因为在部署完节点，连接到主网，等区块同步完毕后，可以直接使用节点发送注册见证人的交易。
 
