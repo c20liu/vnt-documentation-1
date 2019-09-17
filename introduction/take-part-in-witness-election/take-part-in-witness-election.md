@@ -227,9 +227,9 @@ tx=voteContract.$stake.sendTransaction({from:core.coinbase, value:5e18})
 #### 注册见证人节点
 
 从ABI可以看出来，当前注册见证人只需要提供5个参数：
-- nodename: 节点名称
-- website：节点网站网址
-- nodeurl：函数参数，见证人函数的参数
+- nodename: 节点名称（与bp.json中一致）,格式是数字与字母的组合，且3~20字符长度
+- website：节点网站网址（与bp.json中一致）,格式是3~60个字符长度
+- nodeurl：函数参数（与bp.json中一致），见证人函数的参数
 - binder: 与该候选节点建立联系的绑定人
 - beneficiary：与该候选节点建立联系的绑定人的受益人账号，该账号接收超级节点的所有受益
 
