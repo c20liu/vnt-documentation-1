@@ -82,9 +82,9 @@
 
 - 依照《投票合约使用教程》中的[注册见证人节点](https://github.com/vntchain/vnt-documentation/blob/master/introduction/take-part-in-witness-election/take-part-in-witness-election.md#%E6%B3%A8%E5%86%8C%E8%A7%81%E8%AF%81%E4%BA%BA%E8%8A%82%E7%82%B9)操作。
 
-推荐使用方式1，因为在部署完节点，连接到主网，等区块同步完毕后，可以直接使用节点发送注册见证人的交易。
+该方式部署完节点，连接到主网，等区块同步完毕后，可以直接使用节点发送注册见证人的交易。
 
-这2种方式都会讲注册见证人的交易的hash值发送出来，可以使用gvnt控制台、[区块浏览器](https://hubscan.vnt.link)查询交易是否执行成功，当交易执行成功，可以查看候选节点排名。
+注册完成后，注册见证人的交易的hash值发送出来，可以使用gvnt控制台、[区块浏览器](https://hubscan.vnt.link)查询交易是否执行成功，当交易执行成功，可以查看候选节点排名。
 
 ## 查看候选节点排名
 
@@ -102,4 +102,3 @@
 
 1. [投票合约使用教程](https://github.com/vntchain/vnt-documentation/blob/master/introduction/take-part-in-witness-election/take-part-in-witness-election.md)
 1. [如何加入VNT Hubble主网](../05-network/connect-to-hubble-network.md)
-1. [选举工具：elect](https://github.com/vntchain/elect)
