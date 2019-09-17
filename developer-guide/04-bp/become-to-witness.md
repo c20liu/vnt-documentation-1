@@ -52,7 +52,7 @@
 
 ```json
 {
-	"candidate_name": "VNT Europe",
+	"candidate_name": "vnteurope",
 	"candidate_address": "0x02f8d9c9bb81b3a81bf13d4ec8818be5918d3650",
 	"website": "https://www.vnteu.com",
 	"branding": {
@@ -69,9 +69,9 @@
 }
 ```
 
-- candidate_name: 节点名称
-- candidate_address: 节点账户地址
-- website: 节点官网
+- candidate_name: 节点名称(与注册见证人时保持一致)
+- candidate_address: 节点账户地址（与注册见证人时保持一致）
+- website: 节点官网（与注册见证人时保持一致）
 - branding: 节点logo
 - location: 
 	- name：城市名
