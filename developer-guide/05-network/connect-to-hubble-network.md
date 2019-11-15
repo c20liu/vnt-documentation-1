@@ -37,7 +37,6 @@ VNT Hubble主由19个见证人节点组成，负责执行交易和打包区块�
 
 ```bash
 /ip4/39.97.235.82/tcp/3001/ipfs/1kHaSHxTJGAWKgk69Dk4a3BZzzJvVMfzsDHehyJDgm4tXQ8
-/ip4/47.111.137.127/tcp/3001/ipfs/1kHeSvsAiMe33UYipYQVGGvE2akfBspD6fnNq9uWRquEMqY
 ```
 
 2个公共全节点的RPC信息是：
